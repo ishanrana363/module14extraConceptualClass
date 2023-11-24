@@ -1,8 +1,12 @@
+// import UseMemoProblem from "./components/UseMemoProblem.jsx";
+
+import CustomHook from "./components/CustomHook.jsx";
 
 const App = () => {
   return (
     <div>
-      <h1>ishan</h1>
+      {/*<UseMemoProblem/>*/}
+        <CustomHook/>
     </div>
   );
 };
